@@ -2861,6 +2861,17 @@
     "list": {
       "noRecordsMessage": "Aún no se han ejecutado flujos de trabajo."
     },
+    "refundReasons": {
+    "domain": "Motivos de reembolso",
+    "subtitle": "Gestionar motivos para hacer reembolsos.",
+    "calloutHint": "Gestionar motivos para categorizar reembolsos.",
+    "editReason": "Editar motivo de reembolso",
+    "create": {
+      "header": "Añadir motivo de reembolso",
+      "subtitle": "Especifique los motivos más comunes de reembolsos",
+      "hint": "Cree un nuevo motivo de reembolso para categorizarlos",
+      "successToast": "Motivo de reembolso {{label}} se creó satisfactoriamente."
+    },
     "history": {
       "sectionTitle": "Historial",
       "runningState": "En ejecución...",
